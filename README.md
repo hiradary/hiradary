@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🔭 I’m currently a software engineer at [@SutroOrg](https://github.com/SutroOrg), working on [SutroHQ](https://sutrohq.com) and [SutroStudio](https://withsutro.com)
+
+⭐️ You can also find me on [Twitter](https://twitter.com/hiradary) and [Linkedin](https://linkedin.com/in/hiradarshadi).
+
 <!--
 **hiradary/hiradary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
