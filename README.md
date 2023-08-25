@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-🔭 I’m currently a software engineer at [@SutroOrg](https://github.com/SutroOrg), working on [SutroHQ](https://sutrohq.com) and [SutroStudio](https://withsutro.com)
+🔭 I’m a software engineer at [@SutroOrg](https://github.com/SutroOrg), working on [SutroHQ](https://sutrohq.com) and [SutroStudio](https://withsutro.com)
 
-⭐️ You can also find me on [Twitter](https://twitter.com/hiradary) and [Linkedin](https://linkedin.com/in/hiradarshadi).
+🎧 On a solopreneur journey - currently indie-hacking [Xreply.app](https://xreply.app)
 
-👀 Visit [hiradary.me](https://hiradary.me) to find out more about what I do!
+⭐️ You can also find me on [X](https://twitter.com/hiradary), [Linkedin](https://linkedin.com/in/hiradarshadi), or my [hiradary.me](https://hiradary.me)
 
 <!--
 **hiradary/hiradary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
