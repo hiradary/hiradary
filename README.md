@@ -2,7 +2,7 @@
 
 🔭 I’m a software engineer at [@SutroOrg](https://github.com/SutroOrg), working on [SutroHQ](https://sutrohq.com) and [SutroStudio](https://withsutro.com)
 
-🎧 On a solopreneur journey - currently indie-hacking [XReply.app](https://xreply.app)
+🎧 On a solopreneur journey
 
 ⭐️ You can also find me on [X](https://twitter.com/hiradary), [Linkedin](https://linkedin.com/in/hiradarshadi), or [hiradary.me](https://hiradary.me)
 
