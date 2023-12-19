@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m a software engineer at [@SutroOrg](https://github.com/SutroOrg), working on [SutroHQ](https://sutrohq.com) and [SutroStudio](https://withsutro.com)
+🔭 I’m a software engineer at [@SutroOrg](https://github.com/SutroOrg), working on [Sutro.xyz](https://sutro.xyz)
 
 🎧 On a solopreneur journey
 
