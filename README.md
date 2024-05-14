@@ -2,7 +2,7 @@
 
 🔭 I’m a software engineer at [@SutroOrg](https://github.com/SutroOrg), working on [Sutro.xyz](https://sutro.xyz)
 
-🎧 On a solopreneur journey - currently building [SnapCover](https://snapcover.app)
+🎧 On a solopreneur journey - currently building [TodoPal](https://todopal.xyz)
 
 ⭐️ You can also find me on [X](https://twitter.com/hiradary), [Linkedin](https://linkedin.com/in/hiradarshadi), or [hiradary.me](https://hiradary.me)
 
