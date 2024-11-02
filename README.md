@@ -2,7 +2,7 @@
 
 🔭 I’m a software engineer at [@SutroOrg](https://github.com/SutroOrg), working on [Withsutro.com](https://withsutro.com)
 
-🎥 Occasionally make YouTube videos [here]([url](https://www.youtube.com/@hiradary))
+🎥 Occasionally make YouTube videos [here](https://www.youtube.com/@hiradary)
 
 ⭐️ You can also find me on [X](https://twitter.com/hiradary), [Linkedin](https://linkedin.com/in/hiradarshadi), or [hiradary.me](https://hiradary.me)
 
