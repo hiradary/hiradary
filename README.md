@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m a software engineer at [@SutroOrg](https://github.com/SutroOrg), working on [Withsutro.com](https://withsutro.com)
+🔭 I’m a software engineer at [Lovable](https://github.com/lovablelabs)
 
 <!-- 🎥 Occasionally make YouTube videos [here](https://www.youtube.com/@hiradary) -->
 
